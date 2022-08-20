@@ -17,7 +17,7 @@ Rode Website clone Using Tailwind CSS
 - This Project is been Hosted on Netlify. [Project Live Link](https://rode-ui-clone.netlify.app/)
 
 > ## Output 
-![output short video](https://i.imgur.com/dIhyoYg.gif)
+![output short video](https://im5.ezgif.com/tmp/ezgif-5-398e2faa7e.gif)
 
 ![](./assets/output.png)  
 ![](./assets/output2.png)
